@@ -1,0 +1,1 @@
+Using project.name in build.directory doesn't work as expected.
